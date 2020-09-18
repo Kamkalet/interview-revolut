@@ -1,0 +1,986 @@
+[
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_idr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_idr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_php.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_php.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_ron.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_ron.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_cad.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_cad.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sgd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_sgd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_gbp.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_gbp.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_nok.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_nok.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_czk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_czk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_bgn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_bgn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_brl.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_brl.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_cny.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_cny.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_nzd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_nzd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cny.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_cny.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_isk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_isk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_hkd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_hkd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_nzd.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_nzd.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_idr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_idr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_pln.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_pln.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_aud.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_aud.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_mxn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_mxn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pln.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_pln.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_huf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_huf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_dkk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_dkk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_czk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_czk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_jpy.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_jpy.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_bgn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_bgn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_dkk.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_dkk.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_hkd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_hkd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_chf.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_chf.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_idr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_idr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_rub.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_rub.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_gbp.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_gbp.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_myr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_myr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_huf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_huf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_isk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_isk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_bgn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_bgn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_chf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_chf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_ils.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_ils.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_sek.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_sek.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_zar.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_zar.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_mxn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_mxn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_eur.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_eur.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_krw.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_krw.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_hrk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_hrk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_czk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_czk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_thb.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_thb.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pln.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_pln.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_cad.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_cad.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cny.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_cny.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_huf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_huf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_usd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_usd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_cad.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_cad.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_php.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_php.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_gbp.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_gbp.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_brl.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_brl.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_myr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_myr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_ils.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_ils.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_nok.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_nok.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_czk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_czk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sgd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_sgd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_sek.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_sek.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_nok.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_nok.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_ron.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_ron.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_idr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_idr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_nzd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_nzd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_pln.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_pln.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_brl.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_brl.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_mxn.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_mxn.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_rub.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_rub.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_isk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_isk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_nok.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_nok.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_bgn.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_bgn.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_bgn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_bgn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_zar.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_zar.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_brl.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_brl.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_hkd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_hkd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_cny.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_cny.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_php.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_php.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_eur.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_eur.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_sek.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_sek.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_idr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_idr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_gbp.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_gbp.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_nzd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_nzd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_jpy.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_jpy.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_ron.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_ron.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_cad.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_cad.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_nok.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_nok.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_bgn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_bgn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_sek.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_sek.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_zar.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_zar.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sek.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_sek.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_bgn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_bgn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_cny.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_cny.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_isk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_isk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_eur.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_eur.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_sgd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_sgd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_krw.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_krw.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_cad.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_cad.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_ils.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_ils.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_chf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_chf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_thb.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_thb.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_usd.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_usd.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_hrk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_hrk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_czk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_czk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_hrk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_hrk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_zar.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_zar.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_ils.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_ils.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_usd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_usd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cad.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_cad.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_inr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_inr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_krw.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_krw.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_pln.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_pln.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_czk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_czk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_ron.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_ron.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_sgd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_sgd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_idr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_idr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_nzd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_nzd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_php.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_php.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_thb.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_thb.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_dkk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_dkk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_myr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_myr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_thb.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_thb.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_huf.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_huf.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mxn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_mxn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_zar.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_zar.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_brl.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_brl.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_sgd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_sgd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_sek.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_sek.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_gbp.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_gbp.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_rub.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_rub.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_hrk.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_hrk.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_eur.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_eur.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_aud.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_aud.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_php.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_php.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_rub.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_rub.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_chf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_chf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_hkd.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_hkd.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_hkd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_hkd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_nzd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_nzd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_jpy.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_jpy.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_czk.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_czk.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_dkk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_dkk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_usd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_usd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cad.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_cad.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_huf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_huf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_krw.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_krw.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_ils.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_ils.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_aud.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_aud.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_jpy.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_jpy.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_usd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_usd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_eur.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_eur.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_sgd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_sgd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_jpy.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_jpy.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_nok.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_nok.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_ron.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_ron.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_ron.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_ron.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sek.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_sek.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_brl.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_brl.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_hkd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_hkd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_ils.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_ils.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_php.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_php.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_rub.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_rub.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/layout_currency_item.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/layout/currency_item.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_eur.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_eur.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_krw.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_krw.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_inr.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_inr.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_inr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_inr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_cny.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_cny.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_zar.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_zar.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_thb.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_thb.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_dkk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_dkk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_inr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_inr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_krw.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_krw.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_chf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_chf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_zar.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_zar.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_dkk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_dkk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_cny.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_cny.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_aud.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_aud.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_isk.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_isk.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pln.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_pln.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_myr.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_myr.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_sgd.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_sgd.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_hrk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_hrk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_myr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_myr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mxn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_mxn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_nzd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_nzd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_aud.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_aud.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_rub.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_rub.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_chf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_chf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_chf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_chf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_aud.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_aud.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_dkk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_dkk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_jpy.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_jpy.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_hrk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_hrk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_hrk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_hrk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_pln.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_pln.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_isk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_isk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_thb.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_thb.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_gbp.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_gbp.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_usd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_usd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_aud.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_aud.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_php.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_php.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_huf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_huf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_brl.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_brl.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_myr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_myr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_inr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_inr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_krw.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_krw.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_mxn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_mxn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_isk.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_isk.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_myr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_myr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_idr.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_idr.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_eur.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_eur.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_thb.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_thb.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_ron.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_ron.xml"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_inr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-mdpi/ic_inr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_nok.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_nok.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_rub.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_rub.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_inr.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-ldpi/ic_inr.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_gbp.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_gbp.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_usd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-hdpi/ic_usd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_mxn.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_mxn.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_huf.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_huf.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_hkd.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_hkd.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_jpy.png.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_jpy.png"
+    },
+    {
+        "merged": "/home/kamil/StudioProjects/CurrenciesList/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_ils.xml.flat",
+        "source": "/home/kamil/StudioProjects/CurrenciesList/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_ils.xml"
+    }
+]
